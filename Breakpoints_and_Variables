@@ -12,9 +12,10 @@ Breakpoints and Variable for me
 
 Variables
 
---color-text__primary
---color-text__secondary
-
-
---main-color
---bg-color
+    --bg-color: 
+    --family-primary: 
+    --family-second: 
+    --bg-btn: 
+    --border-btn: 
+    --text-logo: 
+    --text-links: 
